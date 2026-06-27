@@ -1,4 +1,5 @@
 Nombre del proyecto: PROYECTO INTEGRADOR DEL JUEGO PIEDRA, PAPEL O TIJERA 
+
 Integrantes: RAMIREZ CALVA ROBINSON ALEXANDER
 
 Objetivo del sistema
